@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=email_parser
+PROJECTNAME=email_brusher
 
 # Active Configuration
 DEFAULTCONF=Debug
